@@ -1,0 +1,7 @@
+
+log/
+*.json
+*.sh
+*.py
+*.log
+*.gitignore
